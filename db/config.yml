@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: cal
+
+test:
+  adapter: postgresql
+  database: cal_test
